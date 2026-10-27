@@ -1,0 +1,15 @@
+{
+  "name": "Sunroom",
+  "version": "0.4.0",
+  "repository": "https://github.com/mikechengx/sunroom",
+  "website": "https://mikechengx.github.io/sunroom/",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "htmlBytes": 6091323,
+  "htmlSha256": "b0672c8c7eb03a98611336d5259d5918e9a2bdc910c334b0287304601e4a2a7e",
+  "storageMigration": "Same mikechengx.github.io origin and unchanged application storage keys.",
+  "originalRepository": "https://github.com/mikechengx/launch-jelly",
+  "originalCommit": "a1d887e53d6d6eec3e6ad991df5ca045e8478d53"
+}
