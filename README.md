@@ -34,3 +34,14 @@ The former `https://mikechengx.github.io/launch-jelly/sunroom.html` redirects he
 右上角切换 中文 / EN。地砖和木地板均可改每块尺寸、颜色、缝隙与光泽；白色漆面柜体显示纯白。手机横屏为左侧预览、右侧可收起工具栏。
 
 独立网址与仓库均为 `sunroom`。线上旧网址自动跳转且沿用同源存档；本地预览项目可用 JSON 迁移。数据仅保存在当前浏览器，不会跨设备同步。
+
+## License / 开源许可
+
+Original application code is released under the [MIT License](LICENSE).
+Third-party JavaScript retains the notices in
+[THIRD_PARTY_LICENSES.txt](apps/sunroom/THIRD_PARTY_LICENSES.txt).
+Poly Haven material and lighting assets remain under CC0, as documented in
+[LICENSES.txt](apps/sunroom/LICENSES.txt). These existing licenses are preserved.
+
+原创应用代码采用 [MIT License](LICENSE)。第三方 JavaScript 保留原有版权和许可声明；
+Poly Haven 材质与环境光素材继续适用 CC0，以上素材与第三方许可均予保留。
